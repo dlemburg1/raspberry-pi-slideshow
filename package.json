@@ -1,0 +1,19 @@
+{
+  "name": "raspberry-pi-slideshow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "dotenv": "^8.2.0",
+    "jimp": "^0.16.1",
+    "request": "^2.88.2",
+    "twitter": "^1.7.1"
+  }
+}
